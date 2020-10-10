@@ -143,7 +143,7 @@ with open(file_to_save, "w") as txt_file:
     # 8: Save the county with the largest turnout to a text file.
     txt_file2.write(f"----------------------\n")
     txt_file2.write(f'Largest County Turnout: {county_largestturnout}')
-    txt_file2.write(f"\n--------------------\n")
+    txt_file2.write(f"\n----------------------\n")
 
 
 
