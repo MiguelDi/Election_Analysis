@@ -15,7 +15,7 @@ A Colorado Board of Elections gave me the following tasks to complete the electi
 
 Here is an example of the output requested.
 
-!![](Resources/election_analysis_output.png)
+ !![](Resources/election_analysis_output.png)
 
 ## Resources
 - Data Source:  election_results.csv
