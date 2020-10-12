@@ -54,7 +54,7 @@ Using Visual Studio Code, 1.38.1
 ### Example of changes to make to script for a city wide election
 Changes to code should be made in the following areas.
 
-!![](Resources/citycode.png)
+![](Resources/citycode.png)
 
 
 
