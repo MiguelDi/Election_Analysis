@@ -17,9 +17,12 @@ Here is an example of the output requested.
 
  !![](Resources/election_analysis_output.png)
 
-## Resources
+## Files
 - Data Source:  election_results.csv
 - Software: Python 3.6.1, Visual Studio Code, 1.38.1
+  Analysis:
+- election_analysis.txt
+- election_results.txt
 
 ##  Summary of Deliverables
 The analysis of the election show that:
@@ -51,7 +54,7 @@ The script for this local election can easily be used for other county elections
 !![](Resources/Vs_folder.png)
 Using Visual Studio Code, 1.38.1
 
-### Challenge Summary
+## Challenge Summary
 Changes to code should be made in the following areas.
 
 ![](Resources/citycode.png)
@@ -73,8 +76,8 @@ Changes to code should be made in the following areas.
 
 
 
-### Example of a Statewide election
-If you wanted to know the results of a statewide election while also knowing where the largest voter turn out for the county was.  No need to change the code at all.  Simply replace the original "election_results.csv" file with an updated "election_results.csv" file.  The data should be housed exactly how it is currently housed, just with the additions of new candidates and counties.  Example of how the current "election_results.csv" file looks.
+### Statewide Election
+Statewide election while also knowing where the largest voter turn out for the county was.  No need to change the code at all.  Simply replace the original "election_results.csv" file with an updated "election_results.csv" file.  The data should be housed exactly how it is currently housed, just with the additions of new candidates and counties.  Example of how the current "election_results.csv" file looks.
 
 
 
