@@ -51,7 +51,7 @@ The script for this local election can easily be used for other county elections
 !![](Resources/Vs_folder.png)
 Using Visual Studio Code, 1.38.1
 
-### Example of changes to make to script for a city wide election
+### Challenge Summary
 Changes to code should be made in the following areas.
 
 ![](Resources/citycode.png)
